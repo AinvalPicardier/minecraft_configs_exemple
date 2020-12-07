@@ -1,0 +1,4 @@
+reddit request : https://www.reddit.com/r/minecraft_configs/comments/k6u5ey/how_to_put_a_custom_world_config_into_a_datapack/
+
+world config from The-Dingos : https://github.com/The-Dingos/MinecraftAlternateRealities/blob/main/OceanCommotion-1.16.4.json
+
